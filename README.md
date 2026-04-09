@@ -6,7 +6,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/beratemrekaya/Forensic-Analysis-Tool?style=social)](https://github.com/beratemrekaya/Forensic-Analysis-Tool/network/members)
 
 <p align="center">
-  <img src="assets/images/header_image.png" alt="Adli Bilişim Başlık Görseli">
+  <img src="[assets/images/header_image.pn](https://raw.githubusercontent.com/beratemrekaya/Adli-Bilisim-Programi-Goruntu-Dosyasi-nceleme/refs/heads/main/app.png)" alt="Adli Bilişim Başlık Görseli">
   <br>
   <em>Dijital delillerin derinlemesine analizi için kapsamlı bir çözüm.</em>
 </p>
