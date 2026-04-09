@@ -1,0 +1,36 @@
+{
+    "/Users/ronigoksu/Pictures/WhatsApp Image 2022-12-21 at 02.28.29.jpeg": {
+        "filename": "WhatsApp Image 2022-12-21 at 02.28.29.jpeg",
+        "analyses": {
+            "metadata_analysis": {
+                "file_path": "/Users/ronigoksu/Pictures/WhatsApp Image 2022-12-21 at 02.28.29.jpeg",
+                "filename": "WhatsApp Image 2022-12-21 at 02.28.29.jpeg",
+                "creation_date": "2023-10-16 18:05:58",
+                "modification_date": "2022-12-21 02:36:54",
+                "file_size": "143074 bytes",
+                "camera_model": "Yok",
+                "software": "Yok",
+                "gps_coordinates": "Yok",
+                "estimated_address": "Yok",
+                "manipulation_warnings": [],
+                "raw_metadata": {}
+            },
+            "camera_forensics": {
+                "file_path": "/Users/ronigoksu/Pictures/WhatsApp Image 2022-12-21 at 02.28.29.jpeg",
+                "filename": "WhatsApp Image 2022-12-21 at 02.28.29.jpeg",
+                "manufacturer": "Yok",
+                "model": "Yok",
+                "software": "Yok",
+                "lens_model": "Yok",
+                "focal_length": "Yok",
+                "exposure_time": "Yok",
+                "iso_speed": "Yok",
+                "prnu_status": "Geliştirme aşamasında",
+                "prnu_match_id": "Yok",
+                "optical_distortion_status": "Geliştirme aşamasında"
+            },
+            "image_integrity": {
+                "file_path": "/Users/ronigoksu/Pictures/WhatsApp Image 2022-12-21 at 02.28.29.jpeg",
+                "filename": "WhatsApp Image 2022-12-21 at 02.28.29.jpeg",
+                "ela_result": "Olası manipülasyon izleri tespit edildi. ELA haritasını inceleyiniz.",
+                "ela_image": 
