@@ -102,3 +102,5 @@ forensic_analysis_tool/
 │ └── images/ # Başlık görseli gibi ek görseller
 ├── recovered_files/ # Kurtarılan dosyaların depolandığı dizin
 └── requirements.txt # Python bağımlılıkları listesi
+
+qTox contact: 18EAB3D22CD3B9773AF7FBF51E818C8DA779048DF561B497FE944D6E1B92097883DBA8B805E3
